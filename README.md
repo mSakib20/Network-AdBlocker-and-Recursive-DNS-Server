@@ -94,8 +94,17 @@ Next, open a web browser and enter the address of your Pi-hole. For example, if 
 
 <img src="/piHole Setup/7.9.JPG">
 
-NOTE: Pi Hole to work properly we have to override the DNS drom our Router. 
+NOTE: Pi Hole to work properly we have to override the DNS from our Router. 
       I am using secondary DNS address 9.9.9.9 as a backup. Once I can confirm that my setup is up and running I can comeback and remove the secondary DNS
       address. 
       
 <img src="/piHole Setup/7.10.JPG">
+
+<img src="/piHole Setup/9.JPG">
+
+### OPTIONAL Recurssive DNS / Unbound Pi Hole
+
+
+
+
+
