@@ -193,5 +193,22 @@ Configure Unbound:
           
  Source: https://docs.pi-hole.net/guides/dns/unbound/
  
+ Now we have to change Pi Hole settings. 
  
+ First, navigate to the settings within Pi-hole. Then select the DNS option and uncheck the box for IPv4, as shown in the picture below.
+ 
+ <img src="/piHole Setup/8.5.JPG">
+ 
+ Then, scroll down to Upstream DNS Server select Custom 1 (IPv4) and then type in following address:
       
+      127.0.0.1#5335
+ 
+ <img src="/piHole Setup/8.6.JPG">
+ 
+ And we're done setting up an Pi Hole with Recursive DNS Server. 
+ 
+ <img src="/piHole Setup/9.JPG">
+ 
+  
+ 
+ 
