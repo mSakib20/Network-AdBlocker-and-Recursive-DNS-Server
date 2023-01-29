@@ -6,4 +6,4 @@ Pi-hole setup with recursive DNS
 
 Download Link: https://www.proxmox.com/en/proxmox-ve/get-started
 
-<img src="1.png">
+<img src="/piHole Setup/1.png">
