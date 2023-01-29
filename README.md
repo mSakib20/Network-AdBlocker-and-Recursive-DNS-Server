@@ -1,2 +1,2 @@
 # Pi-hole-Unbound
-Pi-hole ssetup with recursive DNS
+Pi-hole setup with recursive DNS
