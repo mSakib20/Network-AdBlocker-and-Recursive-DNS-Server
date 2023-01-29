@@ -23,7 +23,7 @@ I am using ubuntu server 22.04 for this project.
 
 ### Setting up ubuntu server inside Virtual Machine
 
-<img src="/piHole Setup/6.JPG">
+<img src="/piHole Setup/6.1.JPG">
 
 <img src="/piHole Setup/6.2.JPG">
 
