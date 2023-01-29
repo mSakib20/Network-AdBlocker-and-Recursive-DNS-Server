@@ -33,7 +33,7 @@ I am using ubuntu server 22.04 for this project.
 
 <img src="/piHole Setup/6.4.JPG">
 
-NOTE: IF AN ERROR OCCURS DURING REBOOT, PLEASE FOLLOW THE INSTRUCTIONS BELOW
+##### NOTE: IF AN ERROR OCCURS DURING REBOOT, PLEASE FOLLOW THE INSTRUCTIONS BELOW
 
 <img src="/piHole Setup/6.5 error.JPG">
 
@@ -41,7 +41,7 @@ NOTE: IF AN ERROR OCCURS DURING REBOOT, PLEASE FOLLOW THE INSTRUCTIONS BELOW
 
 To begin, select the virtual machine in PROXMOX. Next, navigate to the HARDWARE tab and remove the CD/DVD drive, as illustrated in the accompanying image.
 
-NOTE: If the setup gets stuck, restart the virtual machine.
+##### NOTE: If the setup gets stuck, restart the virtual machine.
 
 <img src="/piHole Setup/6.7 (do a restart if setup get stuck).JPG">
 
@@ -82,7 +82,7 @@ SOURCE: https://www.virtualizationhowto.com/2021/12/install-pi-hole-in-ubuntu-21
 <img src="/piHole Setup/7.6.JPG">
 <img src="/piHole Setup/7.7.JPG">
 
-NOTE: REMEBER THIS ADDRESS AND PASSWORD 
+##### NOTE: REMEBER THIS ADDRESS AND PASSWORD 
 
 If you forget or want to change the password then use the following command in TERMIUS to change your password shown in the picture below.
 
@@ -94,7 +94,7 @@ Next, open a web browser and enter the address of your Pi-hole. For example, if 
 
 <img src="/piHole Setup/7.9.JPG">
 
-NOTE: Pi Hole to work properly we have to override the DNS from our Router. 
+##### NOTE: Pi Hole to work properly we have to override the DNS from our Router. 
       I am using secondary DNS address 9.9.9.9 as a backup. Once I can confirm that my setup is up and running I can comeback and remove the secondary DNS
       address. 
       
