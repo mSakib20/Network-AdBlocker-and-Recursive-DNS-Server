@@ -76,3 +76,22 @@ Then, install Pi-hole
 
 SOURCE: https://www.virtualizationhowto.com/2021/12/install-pi-hole-in-ubuntu-21-04/ 
 
+<img src="/piHole Setup/7.3.JPG">
+<img src="/piHole Setup/7.4.JPG">
+<img src="/piHole Setup/7.5.JPG">
+<img src="/piHole Setup/7.6.JPG">
+<img src="/piHole Setup/7.7.JPG">
+
+NOTE: REMEBER THIS ADDRESS AND PASSWORD 
+
+If you forget or want to change the password then use the following command in TERMIUS to change your password shown in the picture below.
+
+      command: pihole -a -p
+
+<img src="/piHole Setup/7.8.JPG">
+
+Next, open a web browser and enter the address of your Pi-hole. For example, if your IP address is 192.168.0.9, you would enter "http://192.168.0.9/admin" into the address bar. Log in with your password.
+
+<img src="/piHole Setup/7.9.JPG">
+
+
