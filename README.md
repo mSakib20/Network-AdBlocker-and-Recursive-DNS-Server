@@ -52,8 +52,27 @@ Now, log in with user ID and PASSWORD.
 Make a note of the IP address, as we will use it later to access the server using SSH.
 
 
-  
+### Install and configure TERMIUS 
 
+DOWNLOAD LINK: https://termi.us/win
 
+After downloading type in the IP address for you your ubuntu server as shown in the picture below
 
+<img src="/termius.JPG">
+
+### Install Pi Hole in Ubuntu server through Termius
+
+After creating a secure connection, install lighttpd server
+      
+      command: sudo apt install lighttpd
+      
+<img src="/piHole Setup/7.1.JPG">
+
+Then, install Pi-hole
+      
+      command: sudo curl -sSL https://install.pi-hole.net | bash
+
+<img src="/piHole Setup/7.2.JPG">
+
+SOURCE: https://www.virtualizationhowto.com/2021/12/install-pi-hole-in-ubuntu-21-04/ 
 
