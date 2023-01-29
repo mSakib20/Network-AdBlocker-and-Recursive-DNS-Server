@@ -205,7 +205,7 @@ Configure Unbound:
  
  <img src="/piHole Setup/8.6.JPG">
  
- ###With that, the setup of a Pi-hole with a Recursive DNS Server is complete. 
+ #### With that, the setup of a Pi-hole with a Recursive DNS Server is complete. 
  
  <img src="/piHole Setup/9.JPG">
  
